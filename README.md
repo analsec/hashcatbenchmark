@@ -12,4 +12,5 @@ Hashmode: 2500 - WPA-EAPOL-PBKDF2
 | GPU | Hashes/s |
 |---|---|
 | RTX 2080 ti | 744.9 k |
+| GTX 1060 | 177.1 k |
 | GeForce 940m | 36270 |
