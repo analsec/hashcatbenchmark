@@ -16,5 +16,6 @@ Hashmode: 2500 - WPA-EAPOL-PBKDF2
 | GTX 1060 (L) | 177.1 k |
 | GTX 960m (L) | 62786 |
 | GeForce 940m (L) | 36270 |
+| Jetson nano | 9661 |
 
 * L = Laptop
