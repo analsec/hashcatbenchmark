@@ -1063,4 +1063,6 @@ Hashmode: 18300 - Apple File System (APFS) (Iterations: 19999)
 Speed.#3.........:     5232 H/s (74.07ms) @ Accel:128 Loops:32 Thr:640 Vec:1
 
 Started: Tue May 28 15:06:13 2019
-                                  Stopped: Tue May 28 16:39:11 2019
+
+                                  
+Stopped: Tue May 28 16:39:11 2019
