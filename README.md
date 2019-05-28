@@ -1,4 +1,4 @@
-# hashcatbenchmark
+# Hashcat Benchmark GPU's
 benchmark in hashcat for diferents gpu's
 
 # How to collaborate
