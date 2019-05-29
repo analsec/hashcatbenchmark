@@ -18,6 +18,6 @@ Hashmode: 2500 - WPA-EAPOL-PBKDF2
 | [GTX 1050 (L)](https://github.com/dickteam/hashcatbenchmark/blob/master/Nvidia/gtx_1050_L.txt) | 100.8 k |
 | [GTX 960m (L)](https://github.com/dickteam/hashcatbenchmark/blob/master/Nvidia/gtx_960m_L.txt) | 62786 |
 | [GeForce 940m (L)](https://github.com/dickteam/hashcatbenchmark/blob/master/Nvidia/940m_L.txt) | 36270 |
-| Jetson nano | 9661 |
+| [Jetson nano](https://github.com/dickteam/hashcatbenchmark/blob/master/Nvidia/jetson_nano.txt) | 9661 |
 
 * L = Laptop
