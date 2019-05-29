@@ -1,5 +1,5 @@
 # Hashcat Benchmark GPU's
-benchmark in hashcat for diferents gpu's
+Benchmark in Hashcat for diferents GPU's
 
 # How to collaborate
 ```
