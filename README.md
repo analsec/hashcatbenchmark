@@ -15,6 +15,7 @@ Hashmode: 2500 - WPA-EAPOL-PBKDF2
 | RTX 2080 | 571.4 k |
 | GTX 1060 | 223.2 k |
 | GTX 1060 (L) | 177.1 k |
+| GTX 1050 (L) | 100.8 k |
 | GTX 960m (L) | 62786 |
 | GeForce 940m (L) | 36270 |
 | Jetson nano | 9661 |
