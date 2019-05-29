@@ -5,6 +5,8 @@ benchmark in hashcat for diferents gpu's
 ```
 hashcat -b --benchmark-all > benchmark.txt
 ```
+### Note
+Please, do not use the GPU while doing this process
 
 # WPA Benchmark
 Hashmode: 2500 - WPA-EAPOL-PBKDF2
