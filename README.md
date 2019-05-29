@@ -11,13 +11,13 @@ Hashmode: 2500 - WPA-EAPOL-PBKDF2
 
 | GPU | Hashes/s |
 |---|---|
-| RTX 2080 ti | 744.9 k |
-| RTX 2080 | 571.4 k |
-| GTX 1060 | 223.2 k |
-| GTX 1060 (L) | 177.1 k |
-| GTX 1050 (L) | 100.8 k |
-| GTX 960m (L) | 62786 |
-| GeForce 940m (L) | 36270 |
+| [RTX 2080 ti](https://github.com/dickteam/hashcatbenchmark/blob/master/Nvidia/rtx_2080ti.txt) | 744.9 k |
+| [RTX 2080](https://github.com/dickteam/hashcatbenchmark/blob/master/Nvidia/rtx_2080.txt) | 571.4 k |
+| [GTX 1060](https://github.com/dickteam/hashcatbenchmark/blob/master/Nvidia/gtx_1060_half.txt) | 223.2 k |
+| [GTX 1060 (L)](https://github.com/dickteam/hashcatbenchmark/blob/master/Nvidia/gtx_1060_half_L.txt) | 177.1 k |
+| [GTX 1050 (L)](https://github.com/dickteam/hashcatbenchmark/blob/master/Nvidia/gtx_1050_L.txt) | 100.8 k |
+| [GTX 960m (L)](https://github.com/dickteam/hashcatbenchmark/blob/master/Nvidia/gtx_960m_L.txt) | 62786 |
+| [GeForce 940m (L)](https://github.com/dickteam/hashcatbenchmark/blob/master/Nvidia/940m_L.txt) | 36270 |
 | Jetson nano | 9661 |
 
 * L = Laptop
