@@ -20,6 +20,7 @@ Hashmode: 2500 - WPA-EAPOL-PBKDF2
 | [RX 580 (e)](https://github.com/dickteam/hashcatbenchmark/blob/master/AMD/rx_580.txt) | 192.1 k |
 | [GTX 970](https://github.com/dickteam/hashcatbenchmark/blob/master/Nvidia/gtx_970.txt) | 183.6 k |
 | [GTX 1060 (L)](https://github.com/dickteam/hashcatbenchmark/blob/master/Nvidia/gtx_1060_half_L.txt) | 177.1 k |
+| [GTX 1650 (L)](https://github.com/dickteam/hashcatbenchmark/blob/master/Nvidia/gtx_1650_L.txt) | 153.4 k |
 | [GTX 1050 (L)](https://github.com/dickteam/hashcatbenchmark/blob/master/Nvidia/gtx_1050_L.txt) | 100.8 k |
 | [GTX 960m (L)](https://github.com/dickteam/hashcatbenchmark/blob/master/Nvidia/gtx_960m_L.txt) | 62786 |
 | [GeForce 940m (L)](https://github.com/dickteam/hashcatbenchmark/blob/master/Nvidia/940m_L.txt) | 36270 |
