@@ -16,6 +16,7 @@ Hashmode: 2500 - WPA-EAPOL-PBKDF2
 | [RTX 2080 ti](https://github.com/dickteam/hashcatbenchmark/blob/master/Nvidia/rtx_2080ti.txt) | 744.9 k |
 | [RTX 2080](https://github.com/dickteam/hashcatbenchmark/blob/master/Nvidia/rtx_2080.txt) | 571.4 k |
 | [RTX 2060](https://github.com/dickteam/hashcatbenchmark/blob/master/Nvidia/rtx_2060.txt) | 370.7 k |
+| [GTX 1070 (L)](https://github.com/analsec/hashcatbenchmark/blob/master/Nvidia/gtx_1070_L.txt) | 334.2 k |
 | [GTX 1060](https://github.com/dickteam/hashcatbenchmark/blob/master/Nvidia/gtx_1060_half.txt) | 223.2 k |
 | [RX 580](https://github.com/dickteam/hashcatbenchmark/blob/master/AMD/rx_580.txt) | 202.1 k |
 | [GTX 970](https://github.com/dickteam/hashcatbenchmark/blob/master/Nvidia/gtx_970.txt) | 183.6 k |
