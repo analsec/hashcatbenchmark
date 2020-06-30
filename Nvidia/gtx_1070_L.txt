@@ -1317,4 +1317,6 @@ Hashmode: 99999 - Plaintext
 Speed.#1.........: 27684.0 MH/s (38.46ms) @ Accel:64 Loops:1024 Thr:1024 Vec:1
 
 Started: Tue Jun 30 02:45:55 2020
-                                  Stopped: Mon Jun 29 22:56:40 2020
+
+                                  
+Stopped: Mon Jun 29 22:56:40 2020
