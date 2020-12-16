@@ -13,6 +13,7 @@ Hashmode: 2500 - WPA-EAPOL-PBKDF2
 
 | GPU | Hashes/s |
 |---|---|
+| [RTX 3090](Nvidia/rtx_3090.txt) | 1065.9 k |
 | [RTX 2080 ti](https://github.com/dickteam/hashcatbenchmark/blob/master/Nvidia/rtx_2080ti.txt) | 744.9 k |
 | [RTX 2080](https://github.com/dickteam/hashcatbenchmark/blob/master/Nvidia/rtx_2080.txt) | 571.4 k |
 | [RTX 2060](https://github.com/dickteam/hashcatbenchmark/blob/master/Nvidia/rtx_2060.txt) | 370.7 k |
