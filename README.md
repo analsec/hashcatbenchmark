@@ -5,6 +5,10 @@ Benchmark in Hashcat for diferents GPU's
 ```
 hashcat -b --benchmark-all > benchmark.txt
 ```
+
+# Archived
+Migrated to https://gitlab.com/vay3t/hashcatbenchmark
+
 ### Note
 Please, do not use the GPU while doing this process
 
